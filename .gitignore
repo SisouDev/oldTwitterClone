@@ -456,6 +456,7 @@ composer.phar
 # Commit your application's lock file https://getcomposer.org/doc/01-basic-usage.md#commit-your-composer-lock-file-to-version-control
 # You may choose to ignore a library lock file http://getcomposer.org/doc/02-libraries.md#lock-file
 composer.lock
+composer.json
 
 ##### PHP CodeSniffer
 # gitignore for the PHP Codesniffer framework
@@ -470,3 +471,8 @@ composer.lock
 *.css.map
 *.sass.map
 *.scss.map
+*.css
+*.sass
+*.scss
+*.js.map
+
